@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "919402433dfbc1ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19c119f453d9bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b773b27a789977",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "180db3defc51502f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a8b39743e54b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0421d2c14bf7cf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1126f77c54bf890d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c6a6e96667857d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "3229e68838376552",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a80e2894621b005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0acc40f003a1d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e33b2ef0bf72a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dad81fb9ba36829e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d222d1d404b6783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "851cc4b863d3e21d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e0421d2c14bf7cf6",
+  "lastOpenFiles": [
+    "0000001108.md",
+    "0000001107.md",
+    "0000001106.md",
+    "0000001105.md",
+    "0000001104.md",
+    "0000001103.md",
+    "0000001102.md",
+    "0000001101.md",
+    "0000001100.md",
+    "0000001099.md",
+    "0000001098.md",
+    "0000001097.md",
+    "0000001096.md",
+    "0000001095.md",
+    "0000001094.md",
+    "0000001093.md",
+    "0000001092.md",
+    "0000001091.md",
+    "0000001090.md",
+    "0000001089.md",
+    "0000001088.md",
+    "0000001087.md",
+    "0000001086.md",
+    "0000001085.md",
+    "0000001084.md",
+    "0000001083.md",
+    "Screenshot_20230920-155123~2.png.txt.txt",
+    "Screenshot_20230912-094119.png.txt.txt",
+    "Screenshot_20230825-092702.png.txt.txt",
+    "Screenshot_20230818-095735.png.txt.txt",
+    "Screenshot_20230816-005355.png.txt.txt",
+    "Screenshot_20230812-210132.png.txt.txt",
+    "Screenshot_20230811-064903.png.txt.txt",
+    "Screenshot_20230810-060752.png.txt.txt",
+    "Screenshot_20230804-125923.png.txt.txt",
+    "Screenshot_20230802-222705.png.txt.txt",
+    "Без названия.canvas"
+  ]
+}
